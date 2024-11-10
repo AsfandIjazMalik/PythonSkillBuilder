@@ -11,7 +11,7 @@ This repository is organized into folders by topic, with each folder containing 
 Data Types and Variables <br>
 Control Structures (loops, conditionals) <br>
 Functions and Modules <br>
-Data Structures
+Data Structures <br>
 Lists <br>
 Dictionaries <br> 
 Sets <br>
